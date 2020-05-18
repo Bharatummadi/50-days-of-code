@@ -3,7 +3,6 @@ def secondLowestGrade(classList):
     result = sorted([_[0] for _ in classList if _[1] == secondLowestScore])
     return result
 
-
 numberOfStudents = int(input())
 classList = []
 for i in range(numberOfStudents):
