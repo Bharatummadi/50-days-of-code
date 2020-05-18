@@ -4,7 +4,6 @@ def readScores(listOfStudents):
     name = line[0]
     listOfStudents[name] = avScore
 
-
 n = int(input())
 listOfStudents = dict()
 for i in range(n):
