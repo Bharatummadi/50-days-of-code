@@ -1,7 +1,3 @@
-# Problem: https://www.hackerrank.com/challenges/py-set-mutations/problem
-# Score: 10
-
-
 def handler(a):
     command = input().split()[0]
     new_set = set(map(int, input().split()))
