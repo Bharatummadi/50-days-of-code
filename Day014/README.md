@@ -5,7 +5,7 @@
 <li>Matplotlib (Blog Hosting Type Plot)</li>
 </ul>
 <p>Snapshot of the visualization</p>
-<img src="viz.PNG">
+<img src="image.PNG">
 
 <p>Snapshot of the csv file</p>
 <img src="csvfile.PNG">
