@@ -5,4 +5,4 @@
 <li>Matplotlib (Blog Hosting Type Plot)</li>
 </ul>
 <p>Snapshot of the visualization</p>
-<img src="viz.png">
+<img src="viz.PNG">
